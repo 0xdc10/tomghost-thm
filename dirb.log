@@ -1,0 +1,23 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Tue Jan 30 01:16:58 2024
+URL_BASE: http://10.10.56.153:8080/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+EXTENSIONS_LIST: (.html,.php) | (.html)(.php) [NUM = 2]
+
+-----------------
+
+*** Generating Wordlist...                                                                               GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.10.56.153:8080/ ----
+*** Calculating NOT_FOUND code...                                                                               
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+                                                                               
+-----------------
+END_TIME: Tue Jan 30 01:19:28 2024
+DOWNLOADED: 0 - FOUND: 0
